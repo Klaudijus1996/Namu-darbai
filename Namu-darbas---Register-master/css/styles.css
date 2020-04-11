@@ -9,7 +9,8 @@ body {
         top: 35%;
         left: 35%;
         margin-right: -35%;
-        transform: translate(-35%, -35%)
+        transform: translate(-35%, -35%);
+        font-family: 'Girassol', cursive;
     }
         div#kaire {
             width: 40%;
