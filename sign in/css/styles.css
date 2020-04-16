@@ -14,7 +14,10 @@ body {
         float: left;
         padding: 60px;
         position: absolute;
-        top: 4.5%;
+        top: 20px;
+        left: 0px;
+        bottom: 20px;
+
         background-image: url(/img/mountain.png);
     }
     .header {
@@ -24,10 +27,12 @@ body {
     }
     .pptos {
         font-size: 22px;
-        margin-top: 90%;
         text-align: center;
         margin-left: 10%;
         color: white;
+        position: absolute;
+        bottom: 30px;
+        left: 60px;
     }
     .tos {
         color: white;
